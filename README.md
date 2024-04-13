@@ -4,7 +4,7 @@
 
 This repository aims to showcase the information obtained as a result of completing the Data Analyst Challenge 2022 developed by Mauro Lopez of Nimble Gravity as part of their hiring process.
 
-Link to the challenge
+[Link to the challenge](https://writer.zohopublic.com/writer/published/hpp809176f475e2a74a04a6822920b6e3da32).
 
 ## Objectives:
 
@@ -45,6 +45,8 @@ The table containing the ratio can be viewed at: [get_employee_ratio](http://loc
 
 ## Final Comments:
 
-Finally, attached to the repository are .sql files containing the methodology to replicate the results, a stored procedure that formats the imported .csv files, the view that allows visualization of the first objective, and the function that allows obtaining the second objective. I hope that the explanations and information provided are understandable and to your liking. I remain attentive and open to any comments to improve the quality of the information provided.
+Finally, attached to the repository are .sql files containing the methodology to replicate the results, a stored procedure that formats the imported .csv files, the view that allows visualization of the first objective, and the function that allows obtaining the second objective. 
+
+I hope that the explanations and information provided are understandable and to your liking. I remain attentive and open to any comments to improve the quality of the information provided.
 
 By Sebastian Castro.
